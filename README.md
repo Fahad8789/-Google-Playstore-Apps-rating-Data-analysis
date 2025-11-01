@@ -14,19 +14,19 @@ Explore the relationship between app category, price, reviews, and ratings.
 The dataset includes the following features:
 
 Column Name	Description
-App	Name of the app
-Category	Category under which the app falls
-Rating	Average user rating
-Reviews	Number of user reviews
-Size	Size of the app
-Install	Number of installations
-Type	Whether the app is Free or Paid
-Price	App price (if paid)
+App	- Name of the app
+Category - Category under which the app falls
+Rating -	Average user rating
+Reviews	- Number of user reviews
+Size - Size of the app
+Install	- Number of installations
+Type -	Whether the app is Free or Paid
+Price -	App price (if paid)
 Content Rating	Age group for which the app is suitable
-Genres	App genre(s)
-Last Updated	Date of last update
-Current Ver	Current app version
-Android Ver	Minimum required Android version
+Genres	- App genre(s)
+Last Updated	- Date of last update
+Current Ver	- Current app version
+Android Ver -	Minimum required Android version
 
 🔍 Key Insights
 ⭐ Ratings Spread: App ratings are evenly distributed across the 1–5 scale, with many apps being either very well-liked or poorly received.
